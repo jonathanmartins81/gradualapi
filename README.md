@@ -166,7 +166,7 @@ Thank you
 
 - [Jonathan Martins](https://github.com/jonathanmartins81) (Developer)
 - [Gradual Info](https://github.com/jonathanmartins81) (Team)
-- [All Contributors](https://github.com/jonathanmartins81/uploader/contributors) (This Rock)
+- [All Contributors](https://github.com/jonathanmartins81/gradualapi/contributors) (This Rock)
 
 ## License
 
