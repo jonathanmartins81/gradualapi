@@ -1,0 +1,31 @@
+{
+  "name": "jonathanmartins81/gradualapi",
+  "description": "Biblioteca API para integração com o webservice do SaaS FSPHP",
+  "keywords": [
+    "FSPHP",
+    "Gradual Info",
+    "Jonathan Martins da Silva",
+    "SaaS",
+    "PHP",
+    "Full Stack"
+  ],
+  "homepage": "https://gradualinfo.com.br/",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Jonathan Martins da Silva",
+      "email": "contato@gradualinfo.com.br",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": "^7.1",
+    "ext-json": "*",
+    "ext-curl": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "JonathanMartins\\GradualApi\\": "src"
+    }
+  }
+}
